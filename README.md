@@ -12,7 +12,6 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 ### Games and Entertainment
 - [⬜ Cards Against Humanity](https://kay-who-codes.github.io/Cards-Against-Humanity/): A web-based version of the popular party game "Cards Against Humanity."
 - [🍻 Ultimate Drinking Cards](https://kay-who-codes.github.io/Ultimate-Drinking-Cards): A collection of drinking game cards for creating fun and engaging drinking games.
-- [🍺 Kings Cup](https://kay-who-codes.github.io/Kings-Cup/): An online version of the drinking game "Kings Cup," with customizable rules.
 - [❓ Question Cards](https://kay-who-codes.github.io/Question-Cards/): A set of question cards designed for party games and ice-breakers.
 - [🗞️ Comic Strips](https://kay-who-codes.github.io/Daily-Comic-Strips/): A gallery of daily comic strips for entertainment.
 - [🔊 Soundboard](https://kay-who-codes.github.io/Soundboard/): A web-based soundboard with various sound effects.

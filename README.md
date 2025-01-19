@@ -7,9 +7,7 @@
 
 I'm a novice programmer who makes simple apps, all accessible directly from your web browser, on desktop and mobile.
 
-## My Apps
-
-Here is a selection of my apps I'm most happy with:
+## My Best Apps So Far
 
 ### Games and Entertainment
 - [⬜ Cards Against Humanity](https://kay-who-codes.github.io/Cards-Against-Humanity/): A web-based version of the popular party game "Cards Against Humanity."
@@ -18,9 +16,6 @@ Here is a selection of my apps I'm most happy with:
 - [❓ Question Cards](https://kay-who-codes.github.io/Question-Cards/): A set of question cards designed for party games and ice-breakers.
 - [🗞️ Comic Strips](https://kay-who-codes.github.io/Daily-Comic-Strips/): A gallery of daily comic strips for entertainment.
 - [🔊 Soundboard](https://kay-who-codes.github.io/Soundboard/): A web-based soundboard with various sound effects.
-
-### Educational
-- [🇬🇷 Greek Quiz](https://kay-who-codes.github.io/Greek-Quiz/): A quiz game focused on Greek language and culture.
 
 ### Tools
 - [👁️ HTML Viewer](https://kay-who-codes.github.io/HTML-Displayer/): A tool for displaying and previewing HTML code.
@@ -32,6 +27,9 @@ Here is a selection of my apps I'm most happy with:
 - [🎶 Song Inspirator](https://kay-who-codes.github.io/Song-Inspirator/): A tool for generating song ideas and inspiration.
 - [✝️ Bible Completion Calculator](https://kay-who-codes.github.io/Bible-Completion-Calculator/): A calculator to track and calculate the completion progress of reading the Bible.
 - [✝️ Random Bible Verses](https://kay-who-codes.github.io/Random-Bible-Verse/): A tool for generating random Bible verses for daily inspiration.
+
+### Educational
+- [🇬🇷 Greek Quiz](https://kay-who-codes.github.io/Greek-Quiz/): A quiz game focused on Greek language and culture.
 
 ## Get in Touch
 

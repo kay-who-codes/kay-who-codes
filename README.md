@@ -35,4 +35,4 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 Feel free to reach out to me via [email](mailto:kaywhocreates@gmail.com). 
 I'm always open to discussing new projects, collaborations, or opportunities.
 
-You can also check out my other creations [HERE](https://www.linktr.ee/kaywhocreate) for more information.
+You can also check out my other creations [HERE](https://www.linktr.ee/kaywhocreate).

@@ -22,6 +22,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [👁️ HTML Viewer](https://kay-who-codes.github.io/HTML-Displayer/): A tool for displaying and previewing HTML code.
 - [👤 Advertising Character Generator](https://kay-who-codes.github.io/Advertising-Character-Generator/): A generator for creating unique advertising characters.
 - [📅 Calendar Countdown](https://kay-who-codes.github.io/Calendar-Holiday-Countdown/): A countdown timer for upcoming holidays and events.
+- [⏳ Time Progress Meters](https://kay-who-codes.github.io/Time-Progress-Meters/): An app that displays progress bars for current day, week, month, and year. 
 - [⌛ Skint Countdown](https://kay-who-codes.github.io/Skint-Countdown/): A countdown timer for tracking the time until payday.
 - [➗ Percentage Calculators](https://kay-who-codes.github.io/Percentage-Calculators/): A set of calculators for performing various percentage calculations.
 - [🔢 Random Number Generator](https://kay-who-codes.github.io/Random-Numbers/): A tool for generating random numbers within a specified range.

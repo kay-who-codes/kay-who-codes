@@ -17,22 +17,31 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [🔊 Soundboard](https://kay-who-codes.github.io/Soundboard/): A web-based soundboard with various sound effects. 
 - [⚽ Game Point Tracker](https://kay-who-codes.github.io/Game-Point-Tracker/): A simple tool to track players' scores in a game. 
 
-### Tools
-- [🍸 Drink Value Calculator](https://kay-who-codes.github.io/Drink-Value-Calculator/): A tool for calculating the relative value of alcoholic drinks.
-- [👁️ HTML Viewer](https://kay-who-codes.github.io/HTML-Displayer/): A tool for displaying and previewing HTML code.
-- [🌍 World Times](https://kay-who-codes.github.io/World-Times/): An app to help you track and compare time zones from around the world.
-- [👤 Advertising Character Generator](https://kay-who-codes.github.io/Advertising-Character-Generator/): A generator for creating unique advertising characters.
-- [📅 Calendar Countdown](https://kay-who-codes.github.io/Calendar-Holiday-Countdown/): A countdown timer for upcoming holidays and events.
-- [⏳ Time Progress Meters](https://kay-who-codes.github.io/Time-Progress-Meters/): An app that displays progress bars for current day, week, month, and year. 
-- [⌛ Skint Countdown](https://kay-who-codes.github.io/Skint-Countdown/): A countdown timer for tracking the time until payday.  
-- [🟠 Bitcoin Holdings Value Calculator](https://kay-who-codes.github.io/Bitcoin-Holdings-Value-Calculator/): A web app to calculate the value of your Bitcoin holdings in USD. 
-- [➗ Percentage Calculators](https://kay-who-codes.github.io/Percentage-Calculators/): A set of calculators for performing various percentage calculations.
-- [🔢 Random Number Generator](https://kay-who-codes.github.io/Random-Numbers/): A tool for generating random numbers within a specified range.
-- [🎶 Song Inspirator](https://kay-who-codes.github.io/Song-Inspirator/): A tool for generating song ideas and inspiration.
-- [✝️ Bible Completion Calculator](https://kay-who-codes.github.io/Bible-Completion-Calculator/): A calculator to track and calculate the completion progress of reading the Bible.
-- [✝️ Random Bible Verses](https://kay-who-codes.github.io/Random-Bible-Verse/): A tool for generating random Bible verses for daily inspiration.
-- [📅 13-Month Calendar Converter](https://kay-who-codes.github.io/13-Month-Calendar-Converter/): A tool which converts the Gregorian date into a 13-month calendar format.
+### 📊 Finance & Value Calculators
+- [🍸 Drink Value Calculator](https://kay-who-codes.github.io/Drink-Value-Calculator/): Calculate the relative value of alcoholic drinks.
+- [🟠 Bitcoin Holdings Value Calculator](https://kay-who-codes.github.io/Bitcoin-Holdings-Value-Calculator/): Calculate Bitcoin holdings value in USD.
 
+### ⏳ Time & Countdown Tools
+- [🌍 World Times](https://kay-who-codes.github.io/World-Times/): Track and compare time zones globally.
+- [📅 Calendar Countdown](https://kay-who-codes.github.io/Calendar-Holiday-Countdown/): Countdown timer for upcoming holidays and events.
+- [⏳ Time Progress Meters](https://kay-who-codes.github.io/Time-Progress-Meters/): Display progress bars for the current day, week, month, and year.
+- [⌛ Skint Countdown](https://kay-who-codes.github.io/Skint-Countdown/): Track the time until payday.
+
+### 🖥️ Web & Code Utilities
+- [👁️ HTML Viewer](https://kay-who-codes.github.io/HTML-Displayer/): Display and preview HTML code.
+
+### 🔢 Calculators & Converters
+- [➗ Percentage Calculators](https://kay-who-codes.github.io/Percentage-Calculators/): Perform various percentage calculations.
+- [📅 13-Month Calendar Converter](https://kay-who-codes.github.io/13-Month-Calendar-Converter/): Convert Gregorian dates into a 13-month calendar format.
+
+### 🎲 Random Generators & Creative Tools
+- [🔢 Random Number Generator](https://kay-who-codes.github.io/Random-Numbers/): Generate random numbers within a specified range.
+- [👤 Advertising Character Generator](https://kay-who-codes.github.io/Advertising-Character-Generator/): Create unique advertising characters.
+- [🎶 Song Inspirator](https://kay-who-codes.github.io/Song-Inspirator/): Generate song ideas and inspiration.
+
+### ✝️ Religious Tools
+- [✝️ Bible Completion Calculator](https://kay-who-codes.github.io/Bible-Completion-Calculator/): Track and calculate Bible reading progress.
+- [✝️ Random Bible Verses](https://kay-who-codes.github.io/Random-Bible-Verse/): Generate random Bible verses for daily inspiration.
 
 ### Educational
 - [🇬🇷 Greek Quiz](https://kay-who-codes.github.io/Greek-Quiz/): A quiz game focused on Greek language and culture.

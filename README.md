@@ -17,21 +17,16 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [🔊 Soundboard](https://kay-who-codes.github.io/Soundboard/): A web-based soundboard with various sound effects. 
 - [⚽ Game Point Tracker](https://kay-who-codes.github.io/Game-Point-Tracker/): A simple tool to track players' scores in a game. 
 
-### 📊 Finance & Value Calculators
+### 🧮 Calculators
 - [🍸 Drink Value Calculator](https://kay-who-codes.github.io/Drink-Value-Calculator/): Calculate the relative value of alcoholic drinks.
 - [🟠 Bitcoin Holdings Value Calculator](https://kay-who-codes.github.io/Bitcoin-Holdings-Value-Calculator/): Calculate Bitcoin holdings value in USD.
+- [➗ Percentage Calculators](https://kay-who-codes.github.io/Percentage-Calculators/): Perform various percentage calculations.
+- [⌛ Skint Countdown](https://kay-who-codes.github.io/Skint-Countdown/): Track the time until payday.
 
-### ⏳ Time & Countdown Tools
+### ⏳ Time Tools
 - [🌍 World Times](https://kay-who-codes.github.io/World-Times/): Track and compare time zones globally.
 - [📅 Calendar Countdown](https://kay-who-codes.github.io/Calendar-Holiday-Countdown/): Countdown timer for upcoming holidays and events.
 - [⏳ Time Progress Meters](https://kay-who-codes.github.io/Time-Progress-Meters/): Display progress bars for the current day, week, month, and year.
-- [⌛ Skint Countdown](https://kay-who-codes.github.io/Skint-Countdown/): Track the time until payday.
-
-### 🖥️ Web & Code Utilities
-- [👁️ HTML Viewer](https://kay-who-codes.github.io/HTML-Displayer/): Display and preview HTML code.
-
-### 🔢 Calculators & Converters
-- [➗ Percentage Calculators](https://kay-who-codes.github.io/Percentage-Calculators/): Perform various percentage calculations.
 - [📅 13-Month Calendar Converter](https://kay-who-codes.github.io/13-Month-Calendar-Converter/): Convert Gregorian dates into a 13-month calendar format.
 
 ### 🎲 Random Generators & Creative Tools
@@ -45,6 +40,9 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 
 ### 👨‍🎓 Educational
 - [🇬🇷 Greek Quiz](https://kay-who-codes.github.io/Greek-Quiz/): A quiz game focused on Greek language and culture.
+
+### 🖥️ Web & Code Utilities
+- [👁️ HTML Viewer](https://kay-who-codes.github.io/HTML-Displayer/): Display and preview HTML code.
 
 ## Get in Touch
 

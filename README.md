@@ -9,7 +9,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 
 ## My Best Apps So Far
 
-### Games and Entertainment
+### 🕹️ Games and Entertainment
 - [⬜ Cards Against Humanity](https://kay-who-codes.github.io/Cards-Against-Humanity/): A web-based version of the popular party game "Cards Against Humanity."
 - [🍻 Ultimate Drinking Cards](https://kay-who-codes.github.io/Ultimate-Drinking-Cards): A collection of drinking game cards for creating fun and engaging drinking games.
 - [❓ Question Cards](https://kay-who-codes.github.io/Question-Cards/): A set of question cards designed for party games and ice-breakers.
@@ -43,7 +43,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [✝️ Bible Completion Calculator](https://kay-who-codes.github.io/Bible-Completion-Calculator/): Track and calculate Bible reading progress.
 - [✝️ Random Bible Verses](https://kay-who-codes.github.io/Random-Bible-Verse/): Generate random Bible verses for daily inspiration.
 
-### Educational
+### 👨‍🎓 Educational
 - [🇬🇷 Greek Quiz](https://kay-who-codes.github.io/Greek-Quiz/): A quiz game focused on Greek language and culture.
 
 ## Get in Touch

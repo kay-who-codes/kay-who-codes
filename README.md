@@ -1,5 +1,7 @@
 # Hi there, I'm Kay 👋
 
+![Kay Image](Kay%20Image.png)
+
 ![GitHub followers](https://img.shields.io/github/followers/kay-who-codes?style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/kay-who-codes?style=social)
 

@@ -24,6 +24,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [🟠 Bitcoin Holdings Value Calculator](https://github.com/kay-who-codes/Bitcoin-Holdings-Value-Calculator/): Calculate Bitcoin holdings value in USD.
 - [➗ Percentage Calculators](https://github.com/kay-who-codes/Percentage-Calculators/): Perform various percentage calculations.
 - [⌛ Skint Countdown](https://github.com/kay-who-codes/Skint-Countdown/): Track the time until payday.
+- [💀 Memento Mori](https://github.com/kay-who-codes/Memento-Mori): Calculate how many weeks you've lived, and roughly how many weeks you have left.
 - [✝️ Bible Completion Calculator](https://github.com/kay-who-codes/Bible-Completion-Calculator/): Track and calculate Bible reading progress.
 
 ### 🎲 Random Generators & Creative Tools

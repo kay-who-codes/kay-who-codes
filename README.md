@@ -25,11 +25,14 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [➗ Percentage Calculators](https://github.com/kay-who-codes/Percentage-Calculators/): Perform various percentage calculations.
 - [⌛ Skint Countdown](https://github.com/kay-who-codes/Skint-Countdown/): Track the time until payday.
 - [💀 Memento Mori](https://github.com/kay-who-codes/Memento-Mori): Calculate how many weeks you've lived, and roughly how many weeks you have left.
+- [🔒 Password Security Calculator](https://github.com/kay-who-codes/Password-Security-Calculator): Calculate how secure you password is.
+- [⚖️ Unique Combination Calculator](https://github.com/kay-who-codes/Unique-Combination-Calculator): Calculate how many unique combinations are possible from a given number of possibilities.
 - [✝️ Bible Completion Calculator](https://github.com/kay-who-codes/Bible-Completion-Calculator/): Track and calculate Bible reading progress.
 
 ### 🎲 Random Generators & Creative Tools
+- [💭 Content Idea Generator](https://github.com/kay-who-codes/Content-Idea-Generator): Generate random content ideas.
 - [🔢 Random Number Generator](https://github.com/kay-who-codes/Random-Numbers/): Generate random numbers within a specified range.
-- [👤 Advertising Character Generator](https://github.com/kay-who-codes/Advertising-Character-Generator/): Create unique advertising characters.
+- [👤 Advertising Character Generator](https://github.com/kay-who-codes/Advertising-Character-Generator/): Generate randomised character profiles for marketing practice.
 - [🎶 Song Inspirator](https://github.com/kay-who-codes/Song-Inspirator/): Generate song ideas and inspiration.
 - [✝️ Random Bible Verses](https://github.com/kay-who-codes/Random-Bible-Verse/): Generate random Bible verses for daily inspiration.
 
@@ -44,6 +47,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [🇬🇷 Greek Quiz](https://github.com/kay-who-codes/Greek-Quiz/): A quiz game focused on Greek language and culture.
 
 ### 🖥️ Web & Code Utilities
+- [✍️ Type Box](https://github.com/kay-who-codes/Type-Box): A simple web-based text box to type into.
 - [👁️ HTML Viewer](https://github.com/kay-who-codes/HTML-Displayer/): Display and preview HTML code.
 
 ## Get in Touch

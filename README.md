@@ -46,8 +46,9 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [🚗 U.K. Driving Theory Test](https://github.com/kay-who-codes/UK-Driving-Theory-Test/): A mock driving theory test designed for U.K. learners.
 - [🇬🇷 Greek Quiz](https://github.com/kay-who-codes/Greek-Quiz/): A quiz game focused on Greek language and culture.
 
-### 🖥️ Web & Code Utilities
+### 🖥️ Web Utilities
 - [✍️ Type Box](https://github.com/kay-who-codes/Type-Box): A simple web-based text box to type into.
+- [🪪 Contact Card Maker](https://github.com/kay-who-codes/Contact-Card-Maker): Create contact cards, and generate QR codes for easy sharing.
 - [👁️ HTML Viewer](https://github.com/kay-who-codes/HTML-Displayer/): Display and preview HTML code.
 
 ## Get in Touch

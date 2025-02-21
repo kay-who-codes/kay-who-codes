@@ -32,7 +32,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 ### 🎲 Random Generators & Creative Tools
 - [💭 Content Idea Generator](https://github.com/kay-who-codes/Content-Idea-Generator): Generate random content ideas.
 - [🔢 Random Number Generator](https://github.com/kay-who-codes/Random-Numbers/): Generate random numbers within a specified range.
-- [👤 Advertising Character Generator](https://github.com/kay-who-codes/Advertising-Character-Generator/): Generate randomised character profiles for marketing practice.
+- [📣 Advertising Character Generator](https://github.com/kay-who-codes/Ad-Target-Generator/): Generate randomised character profiles for marketing practice.
 - [🎶 Song Inspirator](https://github.com/kay-who-codes/Song-Inspirator/): Generate song ideas and inspiration.
 - [✝️ Random Bible Verses](https://github.com/kay-who-codes/Random-Bible-Verse/): Generate random Bible verses for daily inspiration.
 

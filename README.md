@@ -20,6 +20,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [⚽ Game Point Tracker](https://github.com/kay-who-codes/Game-Point-Tracker/): A simple tool to track players' scores in a game. 
 
 ### 🧮 Calculators
+- [🟰 Time Cost Calculator](https://github.com/kay-who-codes/Time-Cost-Calculator): Calculate how much time you need to work to afford an item based on your wage.
 - [🍸 Drink Value Calculator](https://github.com/kay-who-codes/Drink-Value-Calculator/): Calculate the relative value of alcoholic drinks.
 - [🟠 Bitcoin Holdings Value Calculator](https://github.com/kay-who-codes/Bitcoin-Holdings-Value-Calculator/): Calculate Bitcoin holdings value in USD.
 - [➗ Percentage Calculators](https://github.com/kay-who-codes/Percentage-Calculators/): Perform various percentage calculations.
@@ -44,10 +45,14 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 
 ### 👨‍🎓 Educational
 - [🚗 U.K. Driving Theory Test](https://github.com/kay-who-codes/UK-Driving-Theory-Test/): A mock driving theory test designed for U.K. learners.
+- [🃏 Flashcards](https://github.com/kay-who-codes/Flashcards): A simple flashcards app designed to help users learn.
 - [🇬🇷 Greek Quiz](https://github.com/kay-who-codes/Greek-Quiz/): A quiz game focused on Greek language and culture.
 
 ### 🖥️ Web Utilities
 - [✍️ Type Box](https://github.com/kay-who-codes/Type-Box): A simple web-based text box to type into.
+- [🔠 Markdown Pad](https://github.com/kay-who-codes/Markdown-Pad/): A simple markdown text previewer.
+- [👕 Clothing Colour Picker](https://github.com/kay-who-codes/Clothing-Colour-Picker): Preview different clothing colour combinations for your outfit.
+- [🎨 HTML Colour Tool](https://github.com/kay-who-codes/HTML-Colour-Tool): Pick colors and get their corresponding HEX, RGB, HSL, and CMYK values.
 - [🪪 Contact Card Maker](https://github.com/kay-who-codes/Contact-Card-Maker): Create contact cards, and generate QR codes for easy sharing.
 - [👁️ HTML Viewer](https://github.com/kay-who-codes/HTML-Displayer/): Display and preview HTML code.
 

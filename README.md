@@ -22,7 +22,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 ### 🧮 Calculators
 - [🟰 Time Cost Calculator](https://github.com/kay-who-codes/Time-Cost-Calculator): Calculate how much time you need to work to afford an item based on your wage.
 - [🍸 Drink Value Calculator](https://github.com/kay-who-codes/Drink-Value-Calculator/): Calculate the relative value of alcoholic drinks.
-- [🟠 Bitcoin Holdings Value Calculator](https://github.com/kay-who-codes/Bitcoin-Holdings-Value-Calculator/): Calculate Bitcoin holdings value in USD.
+- [🟠 Bitcoin Holdings Value Calculator](https://github.com/kay-who-codes/Bitcoin-Holdings-Value-Calculator/): Calculate Bitcoin holdings value in USD and GBP.
 - [➗ Percentage Calculators](https://github.com/kay-who-codes/Percentage-Calculators/): Perform various percentage calculations.
 - [⌛ Skint Countdown](https://github.com/kay-who-codes/Skint-Countdown/): Track the time until payday.
 - [💀 Memento Mori](https://github.com/kay-who-codes/Memento-Mori): Calculate how many weeks you've lived, and roughly how many weeks you have left.

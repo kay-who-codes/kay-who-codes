@@ -2,9 +2,7 @@
 
 ![Kay Image](Kay%20Image.png)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kay-who-codes&layout=compact&theme=radical) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kay-who-codes&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=kay-who-codes&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kay-who-codes&layout=compact&theme=radical) 
 
 ## About Me
 
@@ -57,6 +55,8 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [🎨 HTML Colour Tool](https://github.com/kay-who-codes/HTML-Colour-Tool): Pick colors and get their corresponding HEX, RGB, HSL, and CMYK values.
 - [🪪 Contact Card Maker](https://github.com/kay-who-codes/Contact-Card-Maker): Create contact cards, and generate QR codes for easy sharing.
 - [👁️ HTML Viewer](https://github.com/kay-who-codes/HTML-Displayer/): Display and preview HTML code.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kay-who-codes&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=kay-who-codes&theme=radical)
 
 ## Get in Touch
 

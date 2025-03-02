@@ -2,7 +2,7 @@
 
 ![Kay Image](Kay%20Image.png)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kay-who-codes&show_icons=true&theme=radical)
 
 ## About Me
 

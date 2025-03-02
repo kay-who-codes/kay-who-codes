@@ -1,8 +1,16 @@
 # Hi there, I'm Kay 👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kay-who-codes&layout=compact&theme=holi) ![Kay Image](Kay%20Image.png) 
+![Kay Image](Kay%20Image.png) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kay-who-codes&show_icons=true&theme=dark)  ![GitHub Streak](https://streak-stats.demolab.com/?user=kay-who-codes&theme=dark)
+<a>
+<img height=200 width=200 align="center" src="Kay%20Image.png>
+</a>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kay-who-codes&layout=compact&theme=holi)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kay-who-codes&show_icons=true&theme=github_dark) 
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kay-who-codes&theme=gotham)
 
 
 ## About Me

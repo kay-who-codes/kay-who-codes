@@ -2,8 +2,7 @@
 
 ![Kay Image](Kay%20Image.png)
 
-![GitHub followers](https://img.shields.io/github/followers/kay-who-codes?style=social) 
-![GitHub stars](https://img.shields.io/github/stars/kay-who-codes?style=social)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## About Me
 

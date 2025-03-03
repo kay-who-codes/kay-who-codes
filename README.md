@@ -8,7 +8,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kay-who-codes&theme=gotham)
 
-
 ## About Me
 
 I'm a novice programmer who makes simple apps, all accessible directly from your web browser, on desktop and mobile.

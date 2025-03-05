@@ -38,6 +38,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [✝️ Bible Completion Calculator](https://github.com/kay-who-codes/Bible-Completion-Calculator/): Track and calculate Bible reading progress.
 
 ### 🎲 Random Generators & Creative Tools
+- [❗ Prompt Generator](https://kay-who-codes.github.io/Prompt-Generator/): Generate random prompts based on selected categories. 
 - [💭 Content Idea Generator](https://github.com/kay-who-codes/Content-Idea-Generator): Generate random content ideas.
 - [🔢 Random Number Generator](https://github.com/kay-who-codes/Random-Numbers/): Generate random numbers within a specified range.
 - [📣 Advertising Character Generator](https://github.com/kay-who-codes/Ad-Target-Generator/): Generate randomised character profiles for marketing practice.

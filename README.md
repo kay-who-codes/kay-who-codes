@@ -44,6 +44,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [📣 Advertising Character Generator](https://github.com/kay-who-codes/Ad-Target-Generator/): Generate randomised character profiles for marketing practice.
 - [🎶 Song Inspirator](https://github.com/kay-who-codes/Song-Inspirator/): Generate song ideas and inspiration.
 - [✝️ Random Bible Verses](https://github.com/kay-who-codes/Random-Bible-Verse/): Generate random Bible verses for daily inspiration.
+- [⬆️ Random Directions](https://github.com/kay-who-codes/Random-Directions): Generate a random direction - forward, left, or right.
 
 ### ⏳ Time Tools
 - [🌍 World Times](https://github.com/kay-who-codes/World-Times/): Track and compare time zones globally.

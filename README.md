@@ -26,7 +26,8 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [⚽ Game Point Tracker](https://github.com/kay-who-codes/Game-Point-Tracker/): A simple tool to track players' scores in a game. 
 
 ### 🧮 Calculators
-- [🟰 Time Cost Calculator](https://github.com/kay-who-codes/Time-Cost-Calculator): Calculate how much time you need to work to afford an item based on your wage.
+- [🟰 Money as Time](https://github.com/kay-who-codes/Money-as-Time): Calculate how much time you need to work to afford an item based on your wage.
+- [🟰 Time as Money](https://github.com/kay-who-codes/Time-as-Money): Calculate how much you would earn after a given number of hours and minutes based on your wage.
 - [📉 Inflation Visualiser](https://github.com/kay-who-codes/Inflation-Visualiser): Visualise the exponentially deteriorative effect of inflation on a given amount of money over time. 
 - [🍸 Drink Value Calculator](https://github.com/kay-who-codes/Drink-Value-Calculator/): Calculate the relative value of alcoholic drinks.
 - [🟠 Bitcoin Holdings Value Calculator](https://github.com/kay-who-codes/Bitcoin-Holdings-Value-Calculator/): Calculate Bitcoin holdings value in USD and GBP.

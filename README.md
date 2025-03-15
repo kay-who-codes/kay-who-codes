@@ -21,7 +21,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [🍻 Ultimate Drinking Cards](https://github.com/kay-who-codes/Ultimate-Drinking-Cards): A collection of drinking game cards for creating fun and engaging drinking games.
 - [🫢 Truth, Dare, or Drink](https://github.com/kay-who-codes/Truth-Dare-or-Drink): A minimalistic Truth, Dare or Drink game.
 - [✏️ 70 Second Scrawls](https://github.com/kay-who-codes/70-Second-Scrawls): A fast paced drawing game for 2 or more players.
-- [❓ Question Cards](https://github.com/kay-who-codes/Question-Cards/): A set of question cards designed for party games and ice-breakers.
+- [❓ Question Cards](https://github.com/kay-who-codes/Question-Cards/): Question cards designed for getting to know someone through deep questions.
 - [🗞️ Comic Strips](https://github.com/kay-who-codes/Daily-Comic-Strips/): A gallery of daily comic strips for entertainment.
 - [🔊 Soundboard](https://github.com/kay-who-codes/Soundboard/): A web-based soundboard with various sound effects. 
 - [⚽ Game Point Tracker](https://github.com/kay-who-codes/Game-Point-Tracker/): A simple tool to track players' scores in a game. 

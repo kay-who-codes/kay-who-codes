@@ -33,7 +33,9 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [🍸 Drink Value Calculator](https://github.com/kay-who-codes/Drink-Value-Calculator/): Calculate the relative value of alcoholic drinks.
 - [🟠 Bitcoin Holdings Value Calculator](https://github.com/kay-who-codes/Bitcoin-Holdings-Value-Calculator/): Calculate Bitcoin holdings value in USD and GBP.
 - [➗ Percentage Calculators](https://github.com/kay-who-codes/Percentage-Calculators/): Perform various percentage calculations.
+- [💬 Subtitle Duration Calculator](https://github.com/kay-who-codes/Subtitle-Duration-Calculator/): Calculate how long to display subtitles based on the average reading speed.
 - [⌛ Skint Countdown](https://github.com/kay-who-codes/Skint-Countdown/): Track the time until payday.
+- [💺 Travel Card Breakeven](https://github.com/kay-who-codes/Travel-Card-Breakeven/): Calculate how long it will take to break even on your travel card subscription.
 - [💀 Memento Mori](https://github.com/kay-who-codes/Memento-Mori): Calculate how many weeks you've lived, and roughly how many weeks you have left.
 - [🔒 Password Security Calculator](https://github.com/kay-who-codes/Password-Security-Calculator): Calculate how secure you password is.
 - [⚖️ Unique Combination Calculator](https://github.com/kay-who-codes/Unique-Combination-Calculator): Calculate how many unique combinations are possible from a given number of possibilities.
@@ -43,6 +45,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [❗ Prompt Generator](https://kay-who-codes.github.io/Prompt-Generator/): Generate random prompts based on selected categories. 
 - [💭 Content Idea Generator](https://github.com/kay-who-codes/Content-Idea-Generator): Generate random content ideas.
 - [🔢 Random Number Generator](https://github.com/kay-who-codes/Random-Numbers/): Generate random numbers within a specified range.
+- [🃏 Tarot Cards](https://github.com/kay-who-codes/Tarot-Cards/): Generate random tarot cards, one at a time.
 - [📣 Advertising Character Generator](https://github.com/kay-who-codes/Ad-Target-Generator/): Generate randomised character profiles for marketing practice.
 - [🎶 Song Inspirator](https://github.com/kay-who-codes/Song-Inspirator/): Generate song ideas and inspiration.
 - [✝️ Random Bible Verses](https://github.com/kay-who-codes/Random-Bible-Verse/): Generate random Bible verses for daily inspiration.
@@ -64,6 +67,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [🔠 Markdown Pad](https://github.com/kay-who-codes/Markdown-Pad/): A simple markdown text previewer.
 - [👕 Clothing Colour Picker](https://github.com/kay-who-codes/Clothing-Colour-Picker): Preview different clothing colour combinations for your outfit.
 - [🎨 HTML Colour Tool](https://github.com/kay-who-codes/HTML-Colour-Tool): Pick colors and get their corresponding HEX, RGB, HSL, and CMYK values.
+- [🔐 EnDecrypt](https://github.com/kay-who-codes/EnDecrypt): Encrypt and Decrypt text.
 - [🪪 Contact Card Maker](https://github.com/kay-who-codes/Contact-Card-Maker): Create contact cards, and generate QR codes for easy sharing.
 - [👁️ HTML Viewer](https://github.com/kay-who-codes/HTML-Displayer/): Display and preview HTML code.
 

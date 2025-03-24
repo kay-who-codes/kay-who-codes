@@ -29,8 +29,9 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 ### 🧮 Calculators
 - [🟰 Money as Time](https://github.com/kay-who-codes/Money-as-Time): Calculate how much time you need to work to afford an item based on your wage.
 - [🟰 Time as Money](https://github.com/kay-who-codes/Time-as-Money): Calculate how much you would earn after a given number of hours and minutes based on your wage.
-- [📉 Inflation Visualiser](https://github.com/kay-who-codes/Inflation-Visualiser): Visualise the exponentially deteriorative effect of inflation on a given amount of money over time. 
-- [🍸 Drink Value Calculator](https://github.com/kay-who-codes/Drink-Value-Calculator/): Calculate the relative value of alcoholic drinks.
+- [📉 Inflation Visualiser](https://github.com/kay-who-codes/Inflation-Visualiser): Visualise the exponentially deteriorative effect of inflation on a given amount of money over time.
+- [🍹 Alcohol Unit Calculator](https://github.com/kay-who-codes/Alcohol-Units-Calculator): Calculate the relative value of alcoholic drinks.
+- [🍸 Drink Value Calculator](https://github.com/kay-who-codes/Drink-Value-Calculator/): Calculate the number of alcohol units in your drinks based on drink size, quantity, and alcohol percentage.
 - [🟠 Bitcoin Holdings Value Calculator](https://github.com/kay-who-codes/Bitcoin-Holdings-Value-Calculator/): Calculate Bitcoin holdings value in USD and GBP.
 - [➗ Percentage Calculators](https://github.com/kay-who-codes/Percentage-Calculators/): Perform various percentage calculations.
 - [💬 Subtitle Duration Calculator](https://github.com/kay-who-codes/Subtitle-Duration-Calculator/): Calculate how long to display subtitles based on the average reading speed.

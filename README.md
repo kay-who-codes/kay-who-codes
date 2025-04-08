@@ -70,6 +70,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 - [🎨 HTML Colour Tool](https://github.com/kay-who-codes/HTML-Colour-Tool): Pick colors and get their corresponding HEX, RGB, HSL, and CMYK values.
 - [🔐 EnDecrypt](https://github.com/kay-who-codes/EnDecrypt): Encrypt and Decrypt text.
 - [🪪 Contact Card Maker](https://github.com/kay-who-codes/Contact-Card-Maker): Create contact cards, and generate QR codes for easy sharing.
+- [🏘️ Address Formatter](https://github.com/kay-who-codes/Address-Formatter): Format addresses by removing commas, replacing characters, and more.
 - [👁️ HTML Viewer](https://github.com/kay-who-codes/HTML-Displayer/): Display and preview HTML code.
 
 ## Get in Touch

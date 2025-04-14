@@ -17,6 +17,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 ## My Best Apps So Far
 
 ### 🕹️ Games and Entertainment
+- [♦️ Game List](https://github.com/kay-who-codes/Game-List): All my games, listed in a neat web-app.
 - [⬜ Cards Against Humanity](https://github.com/kay-who-codes/Cards-Against-Humanity/): A web-based version of the popular party game "Cards Against Humanity."
 - [🪄 Dope Inventions](https://github.com/kay-who-codes/Dope-Inventions): A prompt-based game where buyers seek wild new inventions from entrepreneurs. 
 - [🍻 Ultimate Drinking Cards](https://github.com/kay-who-codes/Ultimate-Drinking-Cards): A collection of drinking game cards for creating fun and engaging drinking games.

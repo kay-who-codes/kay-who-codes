@@ -18,6 +18,7 @@ I'm a novice programmer who makes simple apps, all accessible directly from your
 
 ### 🕹️ Games and Entertainment
 - [⬜ Cards Against Humanity](https://github.com/kay-who-codes/Cards-Against-Humanity/): A web-based version of the popular party game "Cards Against Humanity."
+- [🪄 Dope Inventions](https://github.com/kay-who-codes/Dope-Inventions): A prompt-based game where buyers seek wild new inventions from entrepreneurs. 
 - [🍻 Ultimate Drinking Cards](https://github.com/kay-who-codes/Ultimate-Drinking-Cards): A collection of drinking game cards for creating fun and engaging drinking games.
 - [🫢 Truth, Dare, or Drink](https://github.com/kay-who-codes/Truth-Dare-or-Drink): A minimalistic Truth, Dare or Drink game.
 - [✏️ 70 Second Scrawls](https://github.com/kay-who-codes/70-Second-Scrawls): A fast paced drawing game for 2 or more players.

@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a novice programmer who makes simple apps, all accessible directly from your web browser, on desktop and mobile.
+I make simple apps, all accessible directly from your web browser, on desktop and mobile.
 
 [![Repos Badge](https://badges.pufler.dev/repos/kay-who-codes)](https://github.com/kay-who-codes?tab=repositories)
 

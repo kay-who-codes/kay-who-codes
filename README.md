@@ -1,4 +1,4 @@
-# Hi there, I'm Kay 👋
+# Hey, I'm Kay 👋
 
 ![Kay Image](Kay%20Image.png) 
 
